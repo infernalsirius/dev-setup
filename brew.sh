@@ -61,3 +61,5 @@ brew link libxslt --force
 
 # Remove outdated versions from the cellar.
 brew cleanup
+
+mackup restore
